@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tanisha Singh
+# Hi 👋, I'm Tanisha Kumari
 
 ### 🚀 Full Stack Developer | Software Engineer | Open Source Enthusiast
 
