@@ -1,55 +1,40 @@
 # Hi 👋, I'm Tanisha Kumari
 
-### 🚀 Full Stack Developer | Software Engineer | BCA Final Year
+### 🚀 Passionate Software Developer | Full-Stack Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tanishamishra123&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishamishra123" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanishamishra123&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-- 🔭 I'm currently working on **AI-Powered Code Review Tool**
-- 🌱 I'm currently learning **System Design, DevOps (Docker/K8s), and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Full Stack Projects**
-- 💬 Ask me about **Python, Java, JavaScript, React, Node.js, Databases**
-- 📫 How to reach me: **tanishamishra@email.com** (apni email dalna)
-- ⚡ Fun fact: **I debug code faster than I write it! 😄**
-- 🌐 All of my projects are available right here on GitHub!
+- 🔭 Building **AI-Powered Code Review Tool**
+- 🎯 **2026 Goal:** Land a Software Developer role at a product-based company
+- 🌱 Learning **System Design, Cloud (AWS), & DevOps**
+- 💬 Ask me about **Python, Java, JavaScript, React, Node.js**
+- ⚡ **Fun fact:** I debug faster than I write code 😄
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background:white;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="background:white;"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -57,59 +42,80 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishamishra123&theme=react&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishamishra123&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishamishra123&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishamishra123&layout=compact&theme=react&hide_border=true" alt="languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanishamishra123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" alt="stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishamishra123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="languages" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **AI Code Review Tool** | Automated code review using AI to detect bugs and correct errors | Python • AI/ML • GitHub API | [Repo](https://github.com/Tanishamishra123/automated-code-reviws-using-ai-tool) |
-| **Prime Backend** | Authentication & authorization backend service | JavaScript • Node.js • JWT | [Repo](https://github.com/Tanishamishra123/prime-backend) |
-| **Google Drive Clone** | Cloud storage clone with file upload and management | Next.js • TypeScript • Firebase | [Repo](https://github.com/Tanishamishra123/Google-drive-clone) |
-| **Portfolio README** | This GitHub profile — my personal brand | Markdown • GitHub Actions | [Repo](https://github.com/Tanishamishra123/Tanisha-mishra123) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Code Review Tool</h3>
+      <p align="center">Automated bug detection & correction using AI</p>
+      <p align="center"><strong>Python • AI/ML • GitHub API</strong></p>
+      <p align="center">
+        <a href="https://github.com/Tanishamishra123/automated-code-reviws-using-ai-tool">🔗 Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 Prime Backend</h3>
+      <p align="center">Secure authentication & authorization service</p>
+      <p align="center"><strong>Node.js • JWT • JavaScript</strong></p>
+      <p align="center">
+        <a href="https://github.com/Tanishamishra123/prime-backend">🔗 Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📁 Google Drive Clone</h3>
+      <p align="center">Cloud storage with file upload & management</p>
+      <p align="center"><strong>Next.js • TypeScript • Firebase</strong></p>
+      <p align="center">
+        <a href="https://github.com/Tanishamishra123/Google-drive-clone">🔗 Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📂 More Coming Soon...</h3>
+      <p align="center">Building new projects every week!</p>
+      <p align="center"><strong>🚀 Stay Tuned</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Currently Learning & Goals 2026
+## 🤝 Connect With Me
 
-- ✅ Full Stack Web Development (MERN + Java Spring Boot)
-- ✅ AI-Powered Development Tools
-- 📖 System Design (HLD + LLD)
-- 📖 Cloud Architecture (AWS)
-- 🎯 Contribute to 10+ Open Source projects
-- 🎯 Land a **Software Engineer / Full Stack Internship** at a product-based company
-
----
-
-## 🤝 Connect with me
-
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/tanishamishra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tanishamishra@email.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Tanishamishra123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tanishamishra123/Tanishamishra123/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
 
 <p align="center">
-  <i>Let's build something amazing together! 🚀</i>
+  <img src="https://raw.githubusercontent.com/Tanishamishra123/Tanishamishra123/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Open to exciting Software Developer opportunities!</i>
 </p>
