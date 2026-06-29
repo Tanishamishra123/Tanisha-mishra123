@@ -42,7 +42,6 @@
 
 - 🔭 **Currently Building:** [AI-Powered Code Review Tool](https://github.com/Tanishamishra123/automated-code-reviws-using-ai-tool) 🤖
 - 🎯 **2026 Goal:** Land SDE role at a Product-Based Company
-- 🌱 **Learning Journey:** System Design • Cloud Architecture (AWS) • DevOps Practices
 - 💬 **Ask me about:** Python, Java, JavaScript, React, Node.js, Full-Stack Development
 - ⚡ **Fun fact:** I debug faster than I write code 😄
 - 📫 **Reach me:** [tanishamishra@email.com](mailto:tanishamishra@email.com)
@@ -107,26 +106,6 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ DevOps & Tools</h3>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
